@@ -28,7 +28,7 @@
 I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 - :telescope: I'm open to an entry-level opportunity to utilize react for a front-end role, I'm very passionate about what i do and ready to learn on a job.
 
-- :seedling: I'm currently learning react.
+- :seedling: I'm currently developing interesting projects on react.
 
 - :zap: In my free time, I answer and provide guidance on technical questions on Quora.
 
