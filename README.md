@@ -28,7 +28,7 @@
 I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 - :telescope: I'm open to an entry-level opportunity to utilize react for a front-end role, I'm very passionate about what i do and ready to learn on a job.
 
-- :seedling: I'm currently developing interesting projects on react.
+- :seedling: I'm currently developing interesting projects on React and PHP.
 
 - :zap: In my free time, I answer and provide guidance on technical questions on Quora.
 
@@ -45,6 +45,7 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original-wordmark.svg" title="php" alt="php" width="40" height="40"/>
 </div>
 ---
 
